@@ -1,0 +1,17 @@
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Oliveira da Silva
+    given-names: Felipe
+  - family-names: Meloni Craveiro
+    given-names: Giovana
+  - family-names: Siqueira Souza
+    given-names: João Matheus
+  - family-names: Ferreira da Silva
+    given-names: Vinícius
+  - family-names: de Barros Vanzin
+    given-names: Vinícius João
+title: "Natural Language Inference BOW, Word Embeddings and Symbolic Experiments at ASSIN-2 Dataset"
+date-released: 2023-05-30
+cff-version: 1.0.0
+version: 1.0.0
+url: "https://github.com/jmssouza/nlp_entailment/"
