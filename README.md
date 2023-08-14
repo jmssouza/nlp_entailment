@@ -1,4 +1,4 @@
-# Towards analysis on textual inference at ASSIN-2 dataset
+# Natural Language Inference BOW, Word Embeddings and Symbolic Experiments at ASSIN-2 Dataset
 
 In this repo, we conduct a preliminary analysis of different methods
 to address the Textual Entailment Recognition (RTE) task in Portuguese. We use
